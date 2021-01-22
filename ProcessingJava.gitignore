@@ -1,0 +1,17 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# Gradle files
+.gradle
+build
+
+bin/
+out/
+releases
+lucene
+
+#Temp files Mac OS
+.DS_Store
